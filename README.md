@@ -1,3 +1,10 @@
+# WebXR Mockup for SudoRoom
+
+See our blog here: [https://sudoroom.org/a-trip-to-show-era-japan-at-our-vr-workshop/](https://sudoroom.org/a-trip-to-show-era-japan-at-our-vr-workshop/)
+
+
+
+
 # A-Frame Project
 
 **[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
